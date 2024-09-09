@@ -1,3 +1,4 @@
+
 def morningMenu():
   print("Starting the day off...")
   while True:
